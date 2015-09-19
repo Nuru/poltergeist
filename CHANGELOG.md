@@ -2,6 +2,7 @@
 
 #### Features ####
 *   Add scheme to URL passed to browser by inspector to support the "open" command [Issue #579]
+*   Support resuming from debug pause by sending a signal [Issue #654]
 
 #### Bug fixes ####
 
